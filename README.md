@@ -42,14 +42,6 @@ The repository contains Jupyter Notebooks covering various deep learning topics 
 2. Run the cells sequentially or explore individual sections
 3. Modify and experiment with the code as needed
 
-## Contributing
-
-Contributions are welcome! Feel free to:
-- Add new notebooks with deep learning concepts
-- Improve existing notebooks
-- Fix issues or bugs
-- Add documentation
-
 ## License
 
 This repository is provided as-is for educational purposes.
